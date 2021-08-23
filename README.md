@@ -4,7 +4,7 @@ The purpose of this exercise was the build a website that would be simple, yet v
 
 It's a single page site and includes a styled component which allowed me to use conditionals and ease-in-out more precisely. 
 
-<big>The Cool Part</big>
+**The Cool Part**
 
 Instead of having to create individual pages for each of the info sections, I created a file to store the info for each page:
 
