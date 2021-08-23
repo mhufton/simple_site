@@ -20,7 +20,7 @@ A hero video looping in the background was found for free online:
 
 <img width="1440" alt="Screen Shot 2021-08-23 at 10 48 05 AM" src="https://user-images.githubusercontent.com/78620893/130477556-58e0bc6f-c816-490e-a53e-9d8240c0b590.png">
 
-The images werew free SVGs color coordinated:
+The images were free SVGs:
 
 <img width="1435" alt="Screen Shot 2021-08-23 at 10 49 52 AM" src="https://user-images.githubusercontent.com/78620893/130478855-771c2367-1134-4588-b694-9c17c4d73568.png">
 <img width="1440" alt="Screen Shot 2021-08-23 at 10 49 07 AM" src="https://user-images.githubusercontent.com/78620893/130478879-b84ce206-060e-4ef2-9596-eb01e160eb22.png">
