@@ -4,7 +4,10 @@ This purpose of this exercise was the build a website that would be simple, yet 
 
 It's a single page site and includes a styled component which allowed me to use conditionals and ease-in-out more precisely. 
 
-**The Cool Part**<img width="739" alt="Screen Shot 2021-08-23 at 10 49 31 AM" src="https://user-images.githubusercontent.com/78620893/130478974-10b0d3f9-09ad-4ef5-8bc3-249cc2b5de3c.png">
+**The Cool Part**
+
+<img width="739" alt="Screen Shot 2021-08-23 at 10 49 31 AM" src="https://user-images.githubusercontent.com/78620893/130478974-10b0d3f9-09ad-4ef5-8bc3-249cc2b5de3c.png">
+
 Instead of having to create individual pages for each of the info sections, I created a file to store the info for each page:
 
 <img width="882" alt="Screen Shot 2021-08-23 at 10 54 25 AM" src="https://user-images.githubusercontent.com/78620893/130478652-5ad9972a-67e6-44c5-9637-80053361f63a.png">
