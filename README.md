@@ -1,3 +1,6 @@
+**Hosted Here**
+https://simple-site-two.vercel.app/
+
 **The Project**
 
 The purpose of this exercise was the build a website that would be simple, yet visually pleasing.
