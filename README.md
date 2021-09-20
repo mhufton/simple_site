@@ -16,6 +16,8 @@ Instead of having to create individual pages for each of the info sections, I cr
 Then all I had to do to create the different sections was use the template for the info section and plug in the corresponding data:
 
 <img width="657" alt="Screen Shot 2021-08-23 at 10 54 42 AM" src="https://user-images.githubusercontent.com/78620893/130478679-a88d9ab1-52c0-480f-a37e-bbcdf114ba58.png">
+![Screen Shot 2021-09-20 at 12 55 34 PM](https://user-images.githubusercontent.com/78620893/134066667-6e31702e-db5e-4a53-a08b-fd5f7bbab4d3.png)
+
 
 **The Components**
 
